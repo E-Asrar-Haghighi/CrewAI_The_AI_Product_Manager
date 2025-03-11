@@ -1,5 +1,4 @@
 # CrewAI_The_AI_Product_Manager
-# CrewAI Project - The AI Product Manager
 
 ## 📌 Overview
 This project implements a **multi-agent AI system** using the **CrewAI library** to analyze an image of a **B2B digital menu startup**. The system consists of four AI agents, each performing a specific role:
